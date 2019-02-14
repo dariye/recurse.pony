@@ -2,7 +2,8 @@
 
 # recurse.pony
 
-Base files for recurse pony
+Base file to create your own [recurse](https://recurse.com) pony. This pony is
+based off Pinkie Pie.
 
 ## How to use
 
